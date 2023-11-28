@@ -34,7 +34,7 @@ TinDog is a fun and interactive platform designed to help dog owners find other 
 
 ### Links
 
-- Solution URL: [Solution URL]()
+- Solution URL: [Solution URL](https://github.com/Neooo17/TinDog)
 - Live Site URL: [Live site URL]()
 
 ## My process
